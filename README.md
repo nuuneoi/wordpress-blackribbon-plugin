@@ -6,13 +6,13 @@
 
 1) Create a **blackribbon** folder inside ***/wp-content/plugins*** folder.
 
-2) Copy all the files in this repository to the folder created
+2) Copy all the files in this repository to the folder created.
 
-3) Go to Wordpress backend and you will see **Black Ribbon** appeared on the left sidebar.
+3) Go to Wordpress backend. You will see the **Black Ribbon** menu appeared on the left sidebar.
 
 ![Menu](https://github.com/nuuneoi/wordpress-blackribbon-plugin/blob/master/screenshots/plugin_install.jpg?raw=true)
 
-You could just simply click on it, choose the position that you wish to let the Black Ribbon shown (Top Left, Top Right, Bottom Left or Bottom Right) and then click at **Save Changes**.
+Just simply click on it, choose the position that you wish to let the Black Ribbon shown (Top Left, Top Right, Bottom Left or Bottom Right) and then click at **Save Changes**.
 
 4) Refresh your webpage to see the change.
 
