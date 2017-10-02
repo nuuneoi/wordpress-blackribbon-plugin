@@ -4,7 +4,7 @@
 
 # Installation
 
-1) Create a folder **blackribbon** inside ***/wp-content/plugins*** folder.
+1) Create a **blackribbon** folder inside ***/wp-content/plugins*** folder.
 
 2) Copy all the files in this repository to the folder created
 
